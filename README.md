@@ -6,7 +6,7 @@
 - 📚 I’m currently studying **Computer Science** in **Harbin Institute of Technology**
 - 🌱 I’m currently learning **SLAM** and **AI**
 
-### 📫 How to Reach Me :
+### 📫 How to Reach Me
 - Email: 1278519078@qq.com
 
 <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=UltramarineW&show_icons=true&hide_border=false" />
