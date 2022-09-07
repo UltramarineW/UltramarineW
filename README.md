@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I am UltramarineW 👨‍💻</h1>
 <h3 align="center">道阻且长 行则将至</h3>
 
+
+### :star: Things About Me
 - 📚 I’m currently studying **Computer Science** in **Harbin Institute of Technology**
 - 🌱 I’m currently learning **SLAM** and **AI**
 
