@@ -6,8 +6,11 @@
 
 ### 📫 How to Reach Me :
 - Email: 1278519078@qq.com
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=UltramarineW&show_icons=true&hide_border=false" />
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@UltramarineW&v=2&hide_border=false" />
+
+![xxx's Github stats](https://github-readme-stats.vercel.app/api?username=UltramarineW&show_icons=true) 
+<img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@UltramarineW&v=2&hide_border=false" />
+
+
 
 <h3 align="center">📈Profile Views</h3>
 <p align="center">
