@@ -1,5 +1,5 @@
 ### Hi there 👋
 ![xxx's Github stats](https://github-readme-stats.vercel.app/api?username=UltramarineW&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UltramarineW&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![UltramarineW's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ultramarineW&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 
