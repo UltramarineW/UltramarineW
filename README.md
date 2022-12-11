@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/WhiteElytra/WhiteElytra/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/UltramarineW/UltramarineW/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 <h3 align="center">📈Profile Views</h3>
