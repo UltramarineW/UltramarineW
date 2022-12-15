@@ -5,6 +5,7 @@
 ### :star: Things About Me
 - 📚 I’m currently studying **Computer Science** in **Harbin Institute of Technology**
 - 🌱 I’m currently learning **SLAM** and **AI**
+- 📒 My Blog: https://wujiayang.netlify.app
 
 ### 📫 How to Reach Me
 - Email: 1278519078@qq.com
