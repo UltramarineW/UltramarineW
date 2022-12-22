@@ -8,7 +8,7 @@
 - 📒 My Blog: https://wujiayang.netlify.app
 
 ### 📫 How to Reach Me
-- Email: ultramarinew@qq.com || ultramarineww.gmail.com
+- Email: ultramarinew@qq.com || ultramarineww@gmail.com
 
 <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=UltramarineW&show_icons=true&hide_border=false" />
 <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@UltramarineW&v=2&hide_border=false" />
