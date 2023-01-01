@@ -6,25 +6,16 @@
 - 📚 I’m currently studying **Computer Science** in **Harbin Institute of Technology**
 - 🌱 I’m currently learning **SLAM** and **AI**
 - 📒 My Blog: https://wujiayang.netlify.app
+- ⌨️ Total code time since 2022.7.12
+    <p align="left">
+  <a href="https://wakatime.com/@a44515da-e0d1-408a-b5c1-18be52fa4bdf"><img src="https://wakatime.com/badge/user/a44515da-e0d1-408a-b5c1-18be52fa4bdf.svg" alt="Total     time coded since Jul 12 2022" /></a>
+</p>
 
 ### 📫 How to Reach Me
 - Email: ultramarinew@qq.com || ultramarineww@gmail.com
 
-<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=UltramarineW&show_icons=true&hide_border=false" />
-<img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@UltramarineW&v=2&hide_border=false" />
 
 
-
-<br>
-<br><br>
-<br><br>
-<br><br>
-<br>
-<br>
-
-<p align="center">
-  <a href="https://wakatime.com/@a44515da-e0d1-408a-b5c1-18be52fa4bdf"><img src="https://wakatime.com/badge/user/a44515da-e0d1-408a-b5c1-18be52fa4bdf.svg" alt="Total     time coded since Jul 12 2022" /></a>
-</p>
 
 <p align="center">
   <img src="https://github.com/UltramarineW/UltramarineW/raw/output/github-contribution-grid-snake.svg" />
