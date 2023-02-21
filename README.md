@@ -4,7 +4,7 @@
 
 ### :star: Things About Me
 - 📚 I’m currently studying **Computer Science** in **Harbin Institute of Technology**
-- 🌱 I’m currently learning **SLAM** and **AI**
+- 🌱 I’m currently learning **Humanoid Robot Control** and **AI**
 - 📒 My Blog: https://wujiayang.netlify.app
 - ⌨️ Total code time since 2022.7.12
     <p align="left">
@@ -12,7 +12,7 @@
 </p>
 
 ### 📫 How to Reach Me
-- Email: ultramarinew@qq.com || ultramarineww@gmail.com
+- Email: ultramarinew@qq.com
 
 
 
