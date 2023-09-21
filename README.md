@@ -5,7 +5,7 @@
 ### :star: Things About Me
 - 📚 I’m currently studying **Computer Science** in **Harbin Institute of Technology**
 - 🌱 I’m currently learning **Humanoid Robot Control** and **Artificial Intelligence**
-- 📒 My Blog: https://wujiayang.netlify.app
+- 📒 My Blog: https://wujiayang.netlify.app (no update for a long time)
 </p>
 
 ### 📫 How to Reach Me
