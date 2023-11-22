@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/UltramarineW/UltramarineW/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UltramarineW/UltramarineW/output/github-contribution-grid-snake.svg">
 </p>
 
 <h3 align="center">📈Profile Views</h3>
