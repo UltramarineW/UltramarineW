@@ -17,9 +17,3 @@
 <p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UltramarineW/UltramarineW/output/github-contribution-grid-snake.svg">
 </p>
-
-<h3 align="center">📈Profile Views</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/UltramarineW/count.svg" />
-</p>
-
