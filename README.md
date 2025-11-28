@@ -3,9 +3,10 @@
 
 
 ### :star: Things About Me
-- 📚 I’m currently studying **Computer Science** in **Harbin Institute of Technology**
-- 🌱 I’m currently learning **Humanoid Robot Control** and **Artificial Intelligence**
-- 📒 My Homepage: https://ultramarinew.github.io/ 
+- 📚 I’m currently a **Ph.D. student** in the **Department of Automation, Tsinghua University**
+- 🤖 My research focuses on **Model Predictive Control (MPC)** and **Reinforcement Learning (RL)** for **humanoid robots**
+- 🧑‍🏫 I’m fortunate to be advised by **Prof. Song-Chun Zhu**
+- 📒 My Homepage: https://ultramarinew.github.io/
 </p>
 
 ### 📫 How to Reach Me
